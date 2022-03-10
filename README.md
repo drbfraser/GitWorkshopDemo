@@ -1,2 +1,2 @@
-# GitWorkshopDemo
-Demo repo for Git Workshop
+# Git Workshop Demo
+Welcome to the Git Workshop Demo!
