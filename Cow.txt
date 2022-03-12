@@ -1,2 +1,16 @@
 Q: What do you call a cow on a trampoline?
 A: A milkshake!
+
+	-> GitHub -> Profile
+	-> Settings
+	-> Developer Settings
+	-> Personal Access Token  
+	-> Generate new token
+	-> Copy the token, use as password in VS Code
+
+GitHub login box on screen for VS Code
+- Enter your GitHub user ID ("drbfraser")
+- Password: <paste the token you copied>
+
+Takes you to browser, git hub asks you to confirm
+Takes you back to VS code, to accept
