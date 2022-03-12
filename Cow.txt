@@ -14,3 +14,5 @@ GitHub login box on screen for VS Code
 
 Takes you to browser, git hub asks you to confirm
 Takes you back to VS code, to accept
+
+I'm udderly out of cow jokes.
