@@ -15,7 +15,10 @@ GitHub login box on screen for VS Code
 Takes you to browser, git hub asks you to confirm
 Takes you back to VS code, to accept
 
-BAD I'm *udderly* out of cow jokes.
-GOOD I've *milked* it for all it's worth!
+I'm udderly out of cow jokes.
 
-That's it! I've had enough!
+
+cow is very cool
+OK!  I'm udderly out of cow jokes.
+BAD! I've milked it for all it's worth!
+very cool
